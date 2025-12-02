@@ -1,5 +1,5 @@
 # KR_2
-# Задание 1
+### Задание 1
 Перешли на страницу авторизации пользователя и проверили на уязвимость перед sql-инъекциями
 
 <img width="773" height="598" alt="image" src="https://github.com/user-attachments/assets/36cd4bf1-c93e-4092-aeea-54e566efdc75" />
