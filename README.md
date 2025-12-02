@@ -84,7 +84,7 @@ admin123
 
 
 ### Задание 4
-За основу была взят репоз с (гитхаба)[https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection#xss-using-a-remote-js]
+За основу была взят репоз с [гитхаба](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection#xss-using-a-remote-js)
 <img width="2415" height="439" alt="image" src="https://github.com/user-attachments/assets/f2bc2ed6-a9b2-4515-b4da-b4dc56bd6f2c" />
 
 
